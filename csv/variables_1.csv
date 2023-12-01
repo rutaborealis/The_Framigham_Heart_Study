@@ -1,0 +1,25 @@
+Variable,Description,Units,Range or count
+RANDID,Unique identification number for each participant.,-,2448 - 9999312
+SEX,Participant sex.,1 = Men; 2 = Women,n = 5022; n = 6605
+PERIOD,Examination Cycle.,1 = Period 1; 2 = Period 2; 3 = Period 3,n = 4434; n = 3930; n = 3263
+TIME,Number of days since baseline exam.,-,0 - 4854
+AGE,Age at exam (years).,-,32 - 81
+SYSBP,Systolic Blood Pressure (mean of last two of three measurements) (mmHg).,-,83.5 - 295
+DIABP,Diastolic Blood Pressure (mean of last two of three measurements) (mmHg).,-,30 - 150
+BPMEDS,Use of Anti-hypertensive medication at exam.,0 = Not currently used; 1 = Current Use,n = 10090; n = 944
+CURSMOKE,Current cigarette smoking at exam.,0 = Not current smoker; 1 = Current smoker,n = 6598; n = 5029
+CIGPDAY,Number of cigarettes smoked each day.,0 = Not current smoker; 1 - 90 cigarettes per day,-
+EDUC,Attained Education.,"1 = 0 - 11 years; 2 = High School Diploma; GED 3 = Some College, Vocational School; 4 = College (BS, BA) degree or more",-
+TOTCHOL,Serum Total Cholesterol (mg/dL),-,107 - 696
+HDLC,High Density Lipoprotein Cholesterol (mg/dL).,available for period 3 only,10 - 189
+LDLC,Low Density Lipoprotein Cholesterol (mg/dL).,available for period 3 only,20 - 565
+BMI,"Body Mass Index, weight in kilograms/height meters squared.",-,14.43 - 56.8
+GLUCOSE,Casual serum glucose (mg/dL).,-,39 - 478
+DIABETES,Diabetic according to criteria of first exam treated or first exam with casual glucose of 200 mg/dL or more.,0 = Not a diabetic; 1 = Diabetic,n = 11097; n = 530
+HEARTRTE,Heart rate (Ventricular rate) in beats/min.,-,37 - 220
+PREVAP,Prevalent Angina Pectoris at exam.,0 = Free of disease; 1 = Prevalent disease,n = 11000; n = 627
+PREVCHD,"Prevalent Coronary Heart Disease defined as pre-existing Angina Pectoris, Myocardial Infarction (hospitalized, silent or unrecognized), or Coronary Insufficiency (unstable angina).",0 = Free of disease; 1 = Prevalent disease,n = 10785; n = 842
+PREVMI,Prevalent Myocardial Infarction.,0 = Free of disease; 1 = Prevalent disease,n = 11253; n = 374
+PREVSTRK,Prevalent Stroke.,0 = Free of disease; 1 = Prevalent disease,n = 11475; n = 152
+PREVHYP,"Prevalent Hypertensive. Subject was defined as hypertensive if treated or if second exam at which mean systolic was >=140 mmHg or mean Diastolic
+>=90 mmHg.",0 = Free of disease; 1 = Prevalent disease,n = 6283; n = 5344

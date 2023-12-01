@@ -1,0 +1,17 @@
+Variable name,Description
+ANGINA,Angina Pectoris.
+HOSPMI,Hospitalized Myocardial Infarction.
+MI_FCHD,Hospitalized Myocardial Infarction or Fatal Coronary Heart Disease.
+ANYCHD,"Angina Pectoris, Myocardial infarction (Hospitalized and silent or unrecognized), Coronary Insufficiency (Unstable Angina), or Fatal Coronary Heart Disease."
+STROKE,"Atherothrombotic infarction, Cerebral Embolism, Intracerebral Hemorrhage, or Subarachnoid Hemorrhage or Fatal Cerebrovascular Disease."
+CVD,"Myocardial infarction (Hospitalized and silent or unrecognized), Fatal Coronary Heart Disease, Atherothrombotic infarction, Cerebral Embolism, Intracerebral Hemorrhage, or Subarachnoid Hemorrhage or Fatal Cerebrovascular Disease."
+HYPERTEN,Hypertensive. Defined as the first exam treated for high blood pressure or second exam in which either Systolic is ≥ 140 mmHg or Diastolic ≥ 90mmHg.
+DEATH,Death from any cause.
+TIMEAP,"Number of days from Baseline exam to first Angina during the followup or Number of days from Baseline to censor date. Censor date may be end of followup, death or last known contact date if subject is lost to followup."
+TIMEMI,Defined as above for the first HOSPMI event during followup.
+TIMEMIFC,Defined as above for the first MI_FCHD event during followup.
+TIMECHD,Defined as above for the first ANYCHD event during followup.
+TIMESTRK,Defined as above for the first STROKE event during followup.
+TIMECVD,Defined as above for the first CVD event during followup.
+TIMEHYP,Defined as above for the first HYPERTEN event during followup.
+TIMEDTH,"Number of days from Baseline exam to death if occurring during followup or Number of days from Baseline to censor date. Censor date may be end of followup, or last known contact date if subject is lost to followup."
